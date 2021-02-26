@@ -44,6 +44,6 @@ def predict():
     ins = 'Insult Percentage - {:.2f}%'.format(p_pins * 100),
     thr = 'Threat Percentage - {:.2f}%'.format(p_pthr * 100),
     ide = 'Identity Hate Percentage - {:.2f}%'.format(p_pide * 100))
+if __name__ == '__main__':
+    app.run(debug = True)
 
-
-app.run(debug = True)
