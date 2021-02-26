@@ -13,4 +13,4 @@ The contents of this repository are :-
 to run on local server
 download the contents of this repo and run app.py keeping everything in same file. and run the localhost:5000.
 
-# The link for app is - https://hrithik-agarwal-toxic-class.herokuapp.com/
+## The link for app is - https://hrithik-agarwal-toxic-class.herokuapp.com/
